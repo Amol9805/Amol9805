@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
-* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amol9805/blob/main/cover.png)
 <h3 align="center">Data Scientist | Python | Machine Learning | SQL | Power BI</h3>
-
+![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
 ---
 
 ## 🔍 About Me
