@@ -4,37 +4,37 @@
 ![Dashboard Preview](https://github.com/Amol9805/Amol9805/blob/main/cover.png)
 ---
 
-## 🔍 About Me:
-Results-driven Data Scientist with strong expertise in Python, SQL, Machine Learning, and Data Visualization. Skilled in transforming complex datasets into actionable insights and building data-driven solutions.
+# 🔍 About Me:
+### Results-driven Data Scientist with strong expertise in Python, SQL, Machine Learning, and Data Visualization. Skilled in transforming complex datasets into actionable insights and building data-driven solutions.
 
  
 
-Recently completed an intensive data science bootcamp with hands-on experience in exploratory data analysis (EDA), feature engineering, and predictive modeling.
+### Recently completed an intensive data science bootcamp with hands-on experience in exploratory data analysis (EDA), feature engineering, and predictive modeling.
 
  
 
-Key strengths include:
+## Key strengths include:
 
- • Data analysis and insight generation
+### • Data analysis and insight generation
 
- • Machine learning model development
+### • Machine learning model development
 
- • Statistical analysis and A/B testing
+### • Statistical analysis and A/B testing
 
- • Dashboard creation using Power BI
-
- 
-
-Known for a disciplined and analytical mindset, with strong problem-solving and critical thinking abilities.
+### • Dashboard creation using Power BI
 
  
 
-Actively seeking Data Analyst / Data Scientist opportunities to contribute to impactful, data-driven projects.
+### Known for a disciplined and analytical mindset, with strong problem-solving and critical thinking abilities.
+
+ 
+
+### Actively seeking Data Analyst / Data Scientist opportunities to contribute to impactful, data-driven projects.
 
 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shindeamol509) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shindeamol509@gmail.com)
 
 # 💻 Tech Stack:
@@ -44,7 +44,7 @@ Actively seeking Data Analyst / Data Scientist opportunities to contribute to im
 ![](https://nirzak-streak-stats.vercel.app/?user=amol9805&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amol9805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
