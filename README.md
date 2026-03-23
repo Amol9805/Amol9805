@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
-<img src="image_url.jpg" alt="Description of the image">
-
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
 <h3 align="center">Data Scientist | Python | Machine Learning | SQL | Power BI</h3>
 
 ---
