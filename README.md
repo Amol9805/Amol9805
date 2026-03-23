@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
+<img src="image_url.jpg" alt="Description of the image">
+
 <h3 align="center">Data Scientist | Python | Machine Learning | SQL | Power BI</h3>
 
 ---
