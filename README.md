@@ -1,14 +1,36 @@
-<h1 align="center">Hi 👋, I'm Amol Shinde</h1>
-<h3 align="center">Data Scientist | Python | Machine Learning | SQL | Power BI</h3>
-![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
+<h1 align="center">Hi 👋, I'm AMOL SHINDE</h1>
+
+
+![Dashboard Preview](https://github.com/Amol9805/Amol9805/blob/main/cover.png)
 ---
 
-## 🔍 About Me
-- 🎯 Aspiring **Data Scientist** passionate about solving real-world problems using data  
-- 📊 Skilled in **Python, SQL, Machine Learning, and Data Visualization**  
-- 🧠 Strong foundation in **EDA, Feature Engineering, and Statistical Analysis**  
-- 🚀 Focused on building **data-driven solutions and scalable models**  
-- 🌱 Currently exploring **FastAPI, Docker, and advanced ML techniques**  
+## 🔍 About Me:
+Results-driven Data Scientist with strong expertise in Python, SQL, Machine Learning, and Data Visualization. Skilled in transforming complex datasets into actionable insights and building data-driven solutions.
+
+ 
+
+Recently completed an intensive data science bootcamp with hands-on experience in exploratory data analysis (EDA), feature engineering, and predictive modeling.
+
+ 
+
+Key strengths include:
+
+ • Data analysis and insight generation
+
+ • Machine learning model development
+
+ • Statistical analysis and A/B testing
+
+ • Dashboard creation using Power BI
+
+ 
+
+Known for a disciplined and analytical mindset, with strong problem-solving and critical thinking abilities.
+
+ 
+
+Actively seeking Data Analyst / Data Scientist opportunities to contribute to impactful, data-driven projects.
+
 
 ---
 
