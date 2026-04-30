@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMOL SHINDE</h1> 
-
+  
 
 ![Dashboard Preview](https://github.com/Amol9805/Amol9805/blob/main/cover.png)
 ---
